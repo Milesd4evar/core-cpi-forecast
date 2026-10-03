@@ -1,0 +1,11 @@
+{
+  "data/calendar.json": "91c958c039ea1c282f2f6ab170d09b6d5bd69b1909d6ea3f844df4a5e4bd6328",
+  "data/model.json": "bedeb97b4b83000f92eaaba4d0322980edcadc1ae74208aadab21ff37c5be34c",
+  "data/observations.json.gz": "7671621984ca64a01524592851255519897519508500accb0fcbdedd0b44c078",
+  "data/provenance.json": "759b94308aa225964ec8bc25d73fc467c3f33e21ecd82e62590e0e73450dff28",
+  "data/reference_forecasts.json": "741c92ab941c950eb8c7c3691af12462da37b8f027b8d467af9b62d36d726b0a",
+  "data/sources.json": "f0f53c7e8cbd798b291c1e081faf5d0f6a248bac0cfcc5c0118eab0e13bfc029",
+  "tests/fixtures/cpi_20161117.pdf": "0d66967ef7689dbac0953c18aa6e5ae6c961a4b047ae3c603ba7de259ae005b7",
+  "tests/fixtures/cpi_20260113.pdf": "7210ab631178d3e0560870bfddf7396b58acfc12bd1d836dc2187404dc1d1090",
+  "data/reference_outcomes.json": "21c44bb3c397780d9f645a4c28716f90d90477fe3ecad42006188595ee2701bc"
+}

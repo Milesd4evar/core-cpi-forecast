@@ -1,0 +1,856 @@
+{
+  "description": "Original source-cache metadata; archive paths are audit identifiers, not runtime dependencies.",
+  "files": [
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/AHETPI_2010-12-01_2026-08-01_2025-01-31_2026-08-31.zip",
+      "sha256": "44c2b8d615736d5d9a49f77837c69ae3e9ec1b772af9cfece60c470a780c1730",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=AHETPI",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2025-01-31+2025-02-28+2025-03-31+2025-04-30+2025-05-31+2025-06-30+2025-07-31+2025-08-31+2025-09-30+2025-10-31+2025-11-30+2025-12-31+2026-01-31+2026-02-28+2026-03-31+2026-04-30+2026-05-31+2026-06-30+2026-07-31+2026-08-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:28.141800+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/AHETPI_form.html",
+      "sha256": "990fcc53c32b2ee005e411faa68e0bbb69cbb54ce7417c54a9fb95adf938484e",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=AHETPI",
+        "body": null
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:27.350152+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2012-01-31_2013-04-16.zip",
+      "sha256": "6d9bdcfa21d3eccaca8f8c273ad3dd11bcab49f24d4c4e7daad9210fed6c8676",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-01-31+2012-02-17+2012-02-29+2012-03-16+2012-03-31+2012-04-13+2012-04-30+2012-05-15+2012-05-31+2012-06-14+2012-06-30+2012-07-17+2012-07-31+2012-08-15+2012-08-31+2012-09-14+2012-09-30+2012-10-16+2012-10-31+2012-11-15+2012-11-30+2012-12-14+2012-12-31+2013-01-16+2013-01-31+2013-02-21+2013-02-28+2013-03-15+2013-03-31+2013-04-16"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:25.590242+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2013-04-30_2014-07-22.zip",
+      "sha256": "94447e032c674b27dd46e2706cf6a8c77ca68e10ff2fe2a9b4b8ba71321b50ca",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2013-04-30+2013-05-16+2013-05-31+2013-06-18+2013-06-30+2013-07-16+2013-07-31+2013-08-15+2013-08-31+2013-09-17+2013-09-30+2013-10-30+2013-10-31+2013-11-20+2013-11-30+2013-12-17+2013-12-31+2014-01-16+2014-01-31+2014-02-20+2014-02-28+2014-03-18+2014-03-31+2014-04-15+2014-04-30+2014-05-15+2014-05-31+2014-06-17+2014-06-30+2014-07-22"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:26.170157+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2014-07-31_2015-10-15.zip",
+      "sha256": "bf30967ff7786a37d2f03b9ef01a638c9a999adaf80dc2c744640ad3384ee5ba",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2014-07-31+2014-08-19+2014-08-31+2014-09-17+2014-09-30+2014-10-22+2014-10-31+2014-11-20+2014-11-30+2014-12-17+2014-12-31+2015-01-16+2015-01-31+2015-02-26+2015-02-28+2015-03-24+2015-03-31+2015-04-17+2015-04-30+2015-05-22+2015-05-31+2015-06-18+2015-06-30+2015-07-17+2015-07-31+2015-08-19+2015-08-31+2015-09-16+2015-09-30+2015-10-15"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:28.743574+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2015-10-31_2017-01-18.zip",
+      "sha256": "e846a4bab21c06d48ff00621cb8995ca7d8bf06178710342bd609d7e721a5a0f",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2015-10-31+2015-11-17+2015-11-30+2015-12-15+2015-12-31+2016-01-20+2016-01-31+2016-02-19+2016-02-29+2016-03-16+2016-03-31+2016-04-14+2016-04-30+2016-05-17+2016-05-31+2016-06-16+2016-06-30+2016-07-15+2016-07-31+2016-08-16+2016-08-31+2016-09-16+2016-09-30+2016-10-18+2016-10-31+2016-11-17+2016-11-30+2016-12-15+2016-12-31+2017-01-18"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:29.238443+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2017-01-31_2018-04-11.zip",
+      "sha256": "d9d6f4565384ba492b632037a362c01e62c2b80df7de7cb31cf3a07d7dbb29f9",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2017-01-31+2017-02-15+2017-02-28+2017-03-15+2017-03-31+2017-04-14+2017-04-30+2017-05-12+2017-05-31+2017-06-14+2017-06-30+2017-07-14+2017-07-31+2017-08-11+2017-08-31+2017-09-14+2017-09-30+2017-10-13+2017-10-31+2017-11-15+2017-11-30+2017-12-13+2017-12-31+2018-01-12+2018-01-31+2018-02-14+2018-02-28+2018-03-13+2018-03-31+2018-04-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:29.823511+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2018-04-30_2019-07-11.zip",
+      "sha256": "8e64a797b2d81189cb09eae73f2df87482895ba9432ea359ac137985d6b6472c",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2018-04-30+2018-05-10+2018-05-31+2018-06-12+2018-06-30+2018-07-12+2018-07-31+2018-08-10+2018-08-31+2018-09-13+2018-09-30+2018-10-11+2018-10-31+2018-11-14+2018-11-30+2018-12-12+2018-12-31+2019-01-11+2019-01-31+2019-02-13+2019-02-28+2019-03-12+2019-03-31+2019-04-10+2019-04-30+2019-05-10+2019-05-31+2019-06-12+2019-06-30+2019-07-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:30.228629+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2019-07-31_2020-10-13.zip",
+      "sha256": "3bc806759f647ac62333c12273d10749ad37783c9289da836a0a470bceab4f79",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2019-07-31+2019-08-13+2019-08-31+2019-09-12+2019-09-30+2019-10-10+2019-10-31+2019-11-13+2019-11-30+2019-12-11+2019-12-31+2020-01-14+2020-01-31+2020-02-13+2020-02-29+2020-03-11+2020-03-31+2020-04-10+2020-04-30+2020-05-12+2020-05-31+2020-06-10+2020-06-30+2020-07-14+2020-07-31+2020-08-12+2020-08-31+2020-09-11+2020-09-30+2020-10-13"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:30.774160+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2020-10-31_2022-01-12.zip",
+      "sha256": "afa30fa5df2154222542fd0cdc732fc541179a390444f04a197f74e21efbf2ce",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2020-10-31+2020-11-12+2020-11-30+2020-12-10+2020-12-31+2021-01-13+2021-01-31+2021-02-10+2021-02-28+2021-03-10+2021-03-31+2021-04-13+2021-04-30+2021-05-12+2021-05-31+2021-06-10+2021-06-30+2021-07-13+2021-07-31+2021-08-11+2021-08-31+2021-09-14+2021-09-30+2021-10-13+2021-10-31+2021-11-10+2021-11-30+2021-12-10+2021-12-31+2022-01-12"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:31.139196+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2022-01-31_2023-04-12.zip",
+      "sha256": "4b39252fe950f8d079c143316709a6d5fcb874dcf33f26f298e736d56c33ed18",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2022-01-31+2022-02-10+2022-02-28+2022-03-10+2022-03-31+2022-04-12+2022-04-30+2022-05-11+2022-05-31+2022-06-10+2022-06-30+2022-07-13+2022-07-31+2022-08-10+2022-08-31+2022-09-13+2022-09-30+2022-10-13+2022-10-31+2022-11-10+2022-11-30+2022-12-13+2022-12-31+2023-01-12+2023-01-31+2023-02-14+2023-02-28+2023-03-14+2023-03-31+2023-04-12"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:31.447205+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2023-04-30_2024-07-11.zip",
+      "sha256": "26120415788bc7aac044a7b981b038e751f0fb79f3b3d0502e2e955d25570440",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2023-04-30+2023-05-10+2023-05-31+2023-06-13+2023-06-30+2023-07-12+2023-07-31+2023-08-10+2023-08-31+2023-09-13+2023-09-30+2023-10-12+2023-10-31+2023-11-14+2023-11-30+2023-12-12+2023-12-31+2024-01-11+2024-01-31+2024-02-13+2024-02-29+2024-03-12+2024-03-31+2024-04-10+2024-04-30+2024-05-15+2024-05-31+2024-06-12+2024-06-30+2024-07-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:32.485677+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2024-07-31_2025-10-24.zip",
+      "sha256": "3b9e097771f53cd6e2fd6816df535c62c728dc6d60b36ca02397e765bec70fbc",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2024-07-31+2024-08-14+2024-08-31+2024-09-11+2024-09-30+2024-10-10+2024-10-31+2024-11-13+2024-11-30+2024-12-11+2024-12-31+2025-01-15+2025-01-31+2025-02-12+2025-02-28+2025-03-12+2025-03-31+2025-04-10+2025-04-30+2025-05-13+2025-05-31+2025-06-11+2025-06-30+2025-07-15+2025-07-31+2025-08-12+2025-08-31+2025-09-11+2025-09-30+2025-10-24"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:33.804138+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_2010-12-01_2026-08-01_2025-10-31_2026-09-11.zip",
+      "sha256": "e023ad0952b7abe37f21651b99c2c243e7eed0447874e4605b403184177168e7",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2025-10-31+2025-11-30+2025-12-18+2025-12-31+2026-01-13+2026-01-31+2026-02-13+2026-02-28+2026-03-11+2026-03-31+2026-04-10+2026-04-30+2026-05-12+2026-05-31+2026-06-10+2026-06-30+2026-07-14+2026-07-31+2026-08-12+2026-08-31+2026-09-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:35.519220+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SAM2_form.html",
+      "sha256": "a90c7a9f19550c719b908513c6b9cc675afcdbf0630f5635265c3dfee08d32b3",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SAM2",
+        "body": null
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:24.115492+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHA_2010-12-01_2026-08-01_2012-02-17_2014-07-22.zip",
+      "sha256": "e459e7b64f3f01bdd1a070383799fd5ff61572f307d5356cfc4d687e5dda2f64",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-02-17+2012-03-16+2012-04-13+2012-05-15+2012-06-14+2012-07-17+2012-08-15+2012-09-14+2012-10-16+2012-11-15+2012-12-14+2013-01-16+2013-02-21+2013-03-15+2013-04-16+2013-05-16+2013-06-18+2013-07-16+2013-08-15+2013-09-17+2013-10-30+2013-11-20+2013-12-17+2014-01-16+2014-02-20+2014-03-18+2014-04-15+2014-05-15+2014-06-17+2014-07-22"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:53.173663+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHA_2010-12-01_2026-08-01_2014-08-19_2017-01-18.zip",
+      "sha256": "42b125a6dc0b430143beef5b870e73276faf54ae79a5b8f74cbef7f779e1553b",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2014-08-19+2014-09-17+2014-10-22+2014-11-20+2014-12-17+2015-01-16+2015-02-26+2015-03-24+2015-04-17+2015-05-22+2015-06-18+2015-07-17+2015-08-19+2015-09-16+2015-10-15+2015-11-17+2015-12-15+2016-01-20+2016-02-19+2016-03-16+2016-04-14+2016-05-17+2016-06-16+2016-07-15+2016-08-16+2016-09-16+2016-10-18+2016-11-17+2016-12-15+2017-01-18"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:58.882751+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHA_2010-12-01_2026-08-01_2017-02-15_2019-07-11.zip",
+      "sha256": "e6f875f8d861e6adc45b238113e5f53ad51b702cf15c339d96f01f65650380c3",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2017-02-15+2017-03-15+2017-04-14+2017-05-12+2017-06-14+2017-07-14+2017-08-11+2017-09-14+2017-10-13+2017-11-15+2017-12-13+2018-01-12+2018-02-14+2018-03-13+2018-04-11+2018-05-10+2018-06-12+2018-07-12+2018-08-10+2018-09-13+2018-10-11+2018-11-14+2018-12-12+2019-01-11+2019-02-13+2019-03-12+2019-04-10+2019-05-10+2019-06-12+2019-07-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:59.293457+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHA_2010-12-01_2026-08-01_2019-08-13_2022-01-12.zip",
+      "sha256": "5f543a52075a37af0cbfe07b64c4eabb5fe0e2edcc295e815a31f7e02b5df33d",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2019-08-13+2019-09-12+2019-10-10+2019-11-13+2019-12-11+2020-01-14+2020-02-13+2020-03-11+2020-04-10+2020-05-12+2020-06-10+2020-07-14+2020-08-12+2020-09-11+2020-10-13+2020-11-12+2020-12-10+2021-01-13+2021-02-10+2021-03-10+2021-04-13+2021-05-12+2021-06-10+2021-07-13+2021-08-11+2021-09-14+2021-10-13+2021-11-10+2021-12-10+2022-01-12"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:05.336278+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHA_2010-12-01_2026-08-01_2022-02-10_2024-07-11.zip",
+      "sha256": "b88ebecd0dc9d4e816f325d517c4eedd5618a6d9b6dcdb9e22b5d052ff2e293e",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2022-02-10+2022-03-10+2022-04-12+2022-05-11+2022-06-10+2022-07-13+2022-08-10+2022-09-13+2022-10-13+2022-11-10+2022-12-13+2023-01-12+2023-02-14+2023-03-14+2023-04-12+2023-05-10+2023-06-13+2023-07-12+2023-08-10+2023-09-13+2023-10-12+2023-11-14+2023-12-12+2024-01-11+2024-02-13+2024-03-12+2024-04-10+2024-05-15+2024-06-12+2024-07-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:09.433124+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHA_2010-12-01_2026-08-01_2024-08-14_2026-01-31.zip",
+      "sha256": "3fabe3755cf59487065b3b4b14ea61f76755e85b5435a58b3e530aa393ecd8c0",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2024-08-14+2024-09-11+2024-10-10+2024-11-13+2024-12-11+2025-01-15+2025-01-31+2025-02-12+2025-02-28+2025-03-12+2025-03-31+2025-04-10+2025-04-30+2025-05-13+2025-05-31+2025-06-11+2025-06-30+2025-07-15+2025-07-31+2025-08-12+2025-08-31+2025-09-11+2025-09-30+2025-10-24+2025-10-31+2025-11-30+2025-12-18+2025-12-31+2026-01-13+2026-01-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:13.531442+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHA_2010-12-01_2026-08-01_2026-02-13_2026-09-11.zip",
+      "sha256": "255a9c7f1114ab21073740750bd0f1dae65988a4aec20926b70efc288ba37829",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2026-02-13+2026-02-28+2026-03-11+2026-03-31+2026-04-10+2026-04-30+2026-05-12+2026-05-31+2026-06-10+2026-06-30+2026-07-14+2026-07-31+2026-08-12+2026-08-31+2026-09-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:17.355539+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHA_form.html",
+      "sha256": "30b774b4a662e795ccf6f4a365c8b5290a94fe43de66656b612e204d580c9104",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHA",
+        "body": null
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:46.969849+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2012-01-31_2013-04-16.zip",
+      "sha256": "08b2173c5994fc8a0c19f2fb7af0d7931ec532baa6910426643531ed6cf0d2c7",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-01-31+2012-02-17+2012-02-29+2012-03-16+2012-03-31+2012-04-13+2012-04-30+2012-05-15+2012-05-31+2012-06-14+2012-06-30+2012-07-17+2012-07-31+2012-08-15+2012-08-31+2012-09-14+2012-09-30+2012-10-16+2012-10-31+2012-11-15+2012-11-30+2012-12-14+2012-12-31+2013-01-16+2013-01-31+2013-02-21+2013-02-28+2013-03-15+2013-03-31+2013-04-16"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:24.545331+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2013-04-30_2014-07-22.zip",
+      "sha256": "82958e3327a6249b04279715b70b50458dad14afa25ec6c96c07f3a34348754b",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2013-04-30+2013-05-16+2013-05-31+2013-06-18+2013-06-30+2013-07-16+2013-07-31+2013-08-15+2013-08-31+2013-09-17+2013-09-30+2013-10-30+2013-10-31+2013-11-20+2013-11-30+2013-12-17+2013-12-31+2014-01-16+2014-01-31+2014-02-20+2014-02-28+2014-03-18+2014-03-31+2014-04-15+2014-04-30+2014-05-15+2014-05-31+2014-06-17+2014-06-30+2014-07-22"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:25.797493+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2014-07-31_2015-10-15.zip",
+      "sha256": "6de178babc8f674aecb94cb90630ac0df726169b1cb3ad9171649212b04e031b",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2014-07-31+2014-08-19+2014-08-31+2014-09-17+2014-09-30+2014-10-22+2014-10-31+2014-11-20+2014-11-30+2014-12-17+2014-12-31+2015-01-16+2015-01-31+2015-02-26+2015-02-28+2015-03-24+2015-03-31+2015-04-17+2015-04-30+2015-05-22+2015-05-31+2015-06-18+2015-06-30+2015-07-17+2015-07-31+2015-08-19+2015-08-31+2015-09-16+2015-09-30+2015-10-15"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:26.652281+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2015-10-31_2017-01-18.zip",
+      "sha256": "35b5f81c8947a6eb9e4fdc352885b1a3ac122454e6fb315ce793e14aea90b189",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2015-10-31+2015-11-17+2015-11-30+2015-12-15+2015-12-31+2016-01-20+2016-01-31+2016-02-19+2016-02-29+2016-03-16+2016-03-31+2016-04-14+2016-04-30+2016-05-17+2016-05-31+2016-06-16+2016-06-30+2016-07-15+2016-07-31+2016-08-16+2016-08-31+2016-09-16+2016-09-30+2016-10-18+2016-10-31+2016-11-17+2016-11-30+2016-12-15+2016-12-31+2017-01-18"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:27.317189+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2017-01-31_2018-04-11.zip",
+      "sha256": "6090e32ed929fa17ecf74928161e99ecb94b33d6c4db6d33276075ae8cbac25a",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2017-01-31+2017-02-15+2017-02-28+2017-03-15+2017-03-31+2017-04-14+2017-04-30+2017-05-12+2017-05-31+2017-06-14+2017-06-30+2017-07-14+2017-07-31+2017-08-11+2017-08-31+2017-09-14+2017-09-30+2017-10-13+2017-10-31+2017-11-15+2017-11-30+2017-12-13+2017-12-31+2018-01-12+2018-01-31+2018-02-14+2018-02-28+2018-03-13+2018-03-31+2018-04-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:29.284426+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2018-04-30_2019-07-11.zip",
+      "sha256": "7dcbe08fc9e931d95b5986a9de440e9f679a830a9b752e34d504e9e2fd1ec3ca",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2018-04-30+2018-05-10+2018-05-31+2018-06-12+2018-06-30+2018-07-12+2018-07-31+2018-08-10+2018-08-31+2018-09-13+2018-09-30+2018-10-11+2018-10-31+2018-11-14+2018-11-30+2018-12-12+2018-12-31+2019-01-11+2019-01-31+2019-02-13+2019-02-28+2019-03-12+2019-03-31+2019-04-10+2019-04-30+2019-05-10+2019-05-31+2019-06-12+2019-06-30+2019-07-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:29.833659+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2019-07-31_2020-10-13.zip",
+      "sha256": "a4d9ac547d63ea3057e28daa9ca4eb7c8a867091ac488b96028c24a63d34a63a",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2019-07-31+2019-08-13+2019-08-31+2019-09-12+2019-09-30+2019-10-10+2019-10-31+2019-11-13+2019-11-30+2019-12-11+2019-12-31+2020-01-14+2020-01-31+2020-02-13+2020-02-29+2020-03-11+2020-03-31+2020-04-10+2020-04-30+2020-05-12+2020-05-31+2020-06-10+2020-06-30+2020-07-14+2020-07-31+2020-08-12+2020-08-31+2020-09-11+2020-09-30+2020-10-13"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:31.995053+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2020-10-31_2022-01-12.zip",
+      "sha256": "5b957a536dd5de6ab0ea6362fc6d98c18af2be4292cdb86bf18fe2be87f5acd9",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2020-10-31+2020-11-12+2020-11-30+2020-12-10+2020-12-31+2021-01-13+2021-01-31+2021-02-10+2021-02-28+2021-03-10+2021-03-31+2021-04-13+2021-04-30+2021-05-12+2021-05-31+2021-06-10+2021-06-30+2021-07-13+2021-07-31+2021-08-11+2021-08-31+2021-09-14+2021-09-30+2021-10-13+2021-10-31+2021-11-10+2021-11-30+2021-12-10+2021-12-31+2022-01-12"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:32.812458+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2022-01-31_2023-04-12.zip",
+      "sha256": "076ede403e2feedac86045835c7f0404c71ee805eee71a689fe63d29c87d4e3f",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2022-01-31+2022-02-10+2022-02-28+2022-03-10+2022-03-31+2022-04-12+2022-04-30+2022-05-11+2022-05-31+2022-06-10+2022-06-30+2022-07-13+2022-07-31+2022-08-10+2022-08-31+2022-09-13+2022-09-30+2022-10-13+2022-10-31+2022-11-10+2022-11-30+2022-12-13+2022-12-31+2023-01-12+2023-01-31+2023-02-14+2023-02-28+2023-03-14+2023-03-31+2023-04-12"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:34.024864+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2023-04-30_2024-07-11.zip",
+      "sha256": "4b714b11dfa0f9319438f83d0a1a452896f8a7aae1a5c1cc0ab04040d5b43e4f",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2023-04-30+2023-05-10+2023-05-31+2023-06-13+2023-06-30+2023-07-12+2023-07-31+2023-08-10+2023-08-31+2023-09-13+2023-09-30+2023-10-12+2023-10-31+2023-11-14+2023-11-30+2023-12-12+2023-12-31+2024-01-11+2024-01-31+2024-02-13+2024-02-29+2024-03-12+2024-03-31+2024-04-10+2024-04-30+2024-05-15+2024-05-31+2024-06-12+2024-06-30+2024-07-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:34.394824+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2024-07-31_2025-10-24.zip",
+      "sha256": "7a3e1db0e25ed03f5a0ad75cc1e113987a926041c5b4276695924707336c6cd1",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2024-07-31+2024-08-14+2024-08-31+2024-09-11+2024-09-30+2024-10-10+2024-10-31+2024-11-13+2024-11-30+2024-12-11+2024-12-31+2025-01-15+2025-01-31+2025-02-12+2025-02-28+2025-03-12+2025-03-31+2025-04-10+2025-04-30+2025-05-13+2025-05-31+2025-06-11+2025-06-30+2025-07-15+2025-07-31+2025-08-12+2025-08-31+2025-09-11+2025-09-30+2025-10-24"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:37.011866+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_2010-12-01_2026-08-01_2025-10-31_2026-09-11.zip",
+      "sha256": "b78afbb3eadd1dfb7c6aad0ba1d86a2795032b12d7f5cb8c6c4bfc6d73f46bc3",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2025-10-31+2025-11-30+2025-12-18+2025-12-31+2026-01-13+2026-01-31+2026-02-13+2026-02-28+2026-03-11+2026-03-31+2026-04-10+2026-04-30+2026-05-12+2026-05-31+2026-06-10+2026-06-30+2026-07-14+2026-07-31+2026-08-12+2026-08-31+2026-09-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:39.476177+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHB_form.html",
+      "sha256": "14b292b1de204439999e6eac31ff6d0f6d28952c911dfb719d3b9b7a96bb0ca3",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHB",
+        "body": null
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:21.551028+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHC_2010-12-01_2026-08-01_2012-02-17_2014-07-22.zip",
+      "sha256": "ab95186564a601535e4fb462454230ef155a3e664d2c9edd2c340b8246d2bf7b",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHC",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-02-17+2012-03-16+2012-04-13+2012-05-15+2012-06-14+2012-07-17+2012-08-15+2012-09-14+2012-10-16+2012-11-15+2012-12-14+2013-01-16+2013-02-21+2013-03-15+2013-04-16+2013-05-16+2013-06-18+2013-07-16+2013-08-15+2013-09-17+2013-10-30+2013-11-20+2013-12-17+2014-01-16+2014-02-20+2014-03-18+2014-04-15+2014-05-15+2014-06-17+2014-07-22"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:47.742832+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHC_2010-12-01_2026-08-01_2014-08-19_2017-01-18.zip",
+      "sha256": "ab52fba843be8ea646c5a036423e70d8cfc154da348795e283781710f0bd9d59",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHC",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2014-08-19+2014-09-17+2014-10-22+2014-11-20+2014-12-17+2015-01-16+2015-02-26+2015-03-24+2015-04-17+2015-05-22+2015-06-18+2015-07-17+2015-08-19+2015-09-16+2015-10-15+2015-11-17+2015-12-15+2016-01-20+2016-02-19+2016-03-16+2016-04-14+2016-05-17+2016-06-16+2016-07-15+2016-08-16+2016-09-16+2016-10-18+2016-11-17+2016-12-15+2017-01-18"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:53.922601+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHC_2010-12-01_2026-08-01_2017-02-15_2019-07-11.zip",
+      "sha256": "08c6992f65d0855f00bec4fec30ac49f1ef2ebde878415951dcfebca19026793",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHC",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2017-02-15+2017-03-15+2017-04-14+2017-05-12+2017-06-14+2017-07-14+2017-08-11+2017-09-14+2017-10-13+2017-11-15+2017-12-13+2018-01-12+2018-02-14+2018-03-13+2018-04-11+2018-05-10+2018-06-12+2018-07-12+2018-08-10+2018-09-13+2018-10-11+2018-11-14+2018-12-12+2019-01-11+2019-02-13+2019-03-12+2019-04-10+2019-05-10+2019-06-12+2019-07-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:59.425963+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHC_2010-12-01_2026-08-01_2019-08-13_2022-01-12.zip",
+      "sha256": "9dc15ac960aa83db637b37e7d99ec21684aba89b73fce530dc121436408cbf05",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHC",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2019-08-13+2019-09-12+2019-10-10+2019-11-13+2019-12-11+2020-01-14+2020-02-13+2020-03-11+2020-04-10+2020-05-12+2020-06-10+2020-07-14+2020-08-12+2020-09-11+2020-10-13+2020-11-12+2020-12-10+2021-01-13+2021-02-10+2021-03-10+2021-04-13+2021-05-12+2021-06-10+2021-07-13+2021-08-11+2021-09-14+2021-10-13+2021-11-10+2021-12-10+2022-01-12"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:59.770040+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHC_2010-12-01_2026-08-01_2022-02-10_2024-07-11.zip",
+      "sha256": "b67dfc89a9fceabd39ffa8ac144a436e7810544acc8edf662d185518d4de8663",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHC",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2022-02-10+2022-03-10+2022-04-12+2022-05-11+2022-06-10+2022-07-13+2022-08-10+2022-09-13+2022-10-13+2022-11-10+2022-12-13+2023-01-12+2023-02-14+2023-03-14+2023-04-12+2023-05-10+2023-06-13+2023-07-12+2023-08-10+2023-09-13+2023-10-12+2023-11-14+2023-12-12+2024-01-11+2024-02-13+2024-03-12+2024-04-10+2024-05-15+2024-06-12+2024-07-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:06.461731+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHC_2010-12-01_2026-08-01_2024-08-14_2026-01-31.zip",
+      "sha256": "523a7b7cc1c6d7cf1c7b32966c814cdd6c082a95c5ff03ef69b6f6977fa26ee0",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHC",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2024-08-14+2024-09-11+2024-10-10+2024-11-13+2024-12-11+2025-01-15+2025-01-31+2025-02-12+2025-02-28+2025-03-12+2025-03-31+2025-04-10+2025-04-30+2025-05-13+2025-05-31+2025-06-11+2025-06-30+2025-07-15+2025-07-31+2025-08-12+2025-08-31+2025-09-11+2025-09-30+2025-10-24+2025-10-31+2025-11-30+2025-12-18+2025-12-31+2026-01-13+2026-01-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:11.128854+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHC_2010-12-01_2026-08-01_2026-02-13_2026-09-11.zip",
+      "sha256": "ae59992a2d1f9a0ed564a79d4672639c52c777452d3e77fc0164621e6711a1d7",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHC",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2026-02-13+2026-02-28+2026-03-11+2026-03-31+2026-04-10+2026-04-30+2026-05-12+2026-05-31+2026-06-10+2026-06-30+2026-07-14+2026-07-31+2026-08-12+2026-08-31+2026-09-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:15.545648+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SEHC_form.html",
+      "sha256": "acd3c257a936dfca6cc8a6883d8e2eac1b00ac2330370654fbec2baf43187d7e",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHC",
+        "body": null
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:41.941272+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETA02_2010-12-01_2026-08-01_2012-02-17_2014-07-22.zip",
+      "sha256": "11991f9e318170da86730aa8221367e6e03895678ceb656e8ec8dd4b10b93555",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETA02",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-02-17+2012-03-16+2012-04-13+2012-05-15+2012-06-14+2012-07-17+2012-08-15+2012-09-14+2012-10-16+2012-11-15+2012-12-14+2013-01-16+2013-02-21+2013-03-15+2013-04-16+2013-05-16+2013-06-18+2013-07-16+2013-08-15+2013-09-17+2013-10-30+2013-11-20+2013-12-17+2014-01-16+2014-02-20+2014-03-18+2014-04-15+2014-05-15+2014-06-17+2014-07-22"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:52.588104+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETA02_2010-12-01_2026-08-01_2014-08-19_2017-01-18.zip",
+      "sha256": "8e9a4995dfedbb83fc83a164498f3fce61d6d3fadaffdf3f42899cba3a9038e3",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETA02",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2014-08-19+2014-09-17+2014-10-22+2014-11-20+2014-12-17+2015-01-16+2015-02-26+2015-03-24+2015-04-17+2015-05-22+2015-06-18+2015-07-17+2015-08-19+2015-09-16+2015-10-15+2015-11-17+2015-12-15+2016-01-20+2016-02-19+2016-03-16+2016-04-14+2016-05-17+2016-06-16+2016-07-15+2016-08-16+2016-09-16+2016-10-18+2016-11-17+2016-12-15+2017-01-18"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:58.379457+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETA02_2010-12-01_2026-08-01_2017-02-15_2019-07-11.zip",
+      "sha256": "7c6447591df3217fb6f8f70dbafc1282a53b7fa57e2bf47771f6b3208fc9d174",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETA02",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2017-02-15+2017-03-15+2017-04-14+2017-05-12+2017-06-14+2017-07-14+2017-08-11+2017-09-14+2017-10-13+2017-11-15+2017-12-13+2018-01-12+2018-02-14+2018-03-13+2018-04-11+2018-05-10+2018-06-12+2018-07-12+2018-08-10+2018-09-13+2018-10-11+2018-11-14+2018-12-12+2019-01-11+2019-02-13+2019-03-12+2019-04-10+2019-05-10+2019-06-12+2019-07-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:04.663227+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETA02_2010-12-01_2026-08-01_2019-08-13_2022-01-12.zip",
+      "sha256": "57f6a6ba89c45c289712658e9b3df89fccef58244cdb6400f1ef76e71c2d1616",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETA02",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2019-08-13+2019-09-12+2019-10-10+2019-11-13+2019-12-11+2020-01-14+2020-02-13+2020-03-11+2020-04-10+2020-05-12+2020-06-10+2020-07-14+2020-08-12+2020-09-11+2020-10-13+2020-11-12+2020-12-10+2021-01-13+2021-02-10+2021-03-10+2021-04-13+2021-05-12+2021-06-10+2021-07-13+2021-08-11+2021-09-14+2021-10-13+2021-11-10+2021-12-10+2022-01-12"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:05.847349+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETA02_2010-12-01_2026-08-01_2022-02-10_2024-07-11.zip",
+      "sha256": "472fdabd976248755452fb53f808eaa0ce6d99df20d50f34d034017d917740ef",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETA02",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2022-02-10+2022-03-10+2022-04-12+2022-05-11+2022-06-10+2022-07-13+2022-08-10+2022-09-13+2022-10-13+2022-11-10+2022-12-13+2023-01-12+2023-02-14+2023-03-14+2023-04-12+2023-05-10+2023-06-13+2023-07-12+2023-08-10+2023-09-13+2023-10-12+2023-11-14+2023-12-12+2024-01-11+2024-02-13+2024-03-12+2024-04-10+2024-05-15+2024-06-12+2024-07-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:10.733292+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETA02_2010-12-01_2026-08-01_2024-08-14_2026-01-31.zip",
+      "sha256": "0331568034c405a63ea461b4620bc8947af1179023151a0693366575b517b23b",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETA02",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2024-08-14+2024-09-11+2024-10-10+2024-11-13+2024-12-11+2025-01-15+2025-01-31+2025-02-12+2025-02-28+2025-03-12+2025-03-31+2025-04-10+2025-04-30+2025-05-13+2025-05-31+2025-06-11+2025-06-30+2025-07-15+2025-07-31+2025-08-12+2025-08-31+2025-09-11+2025-09-30+2025-10-24+2025-10-31+2025-11-30+2025-12-18+2025-12-31+2026-01-13+2026-01-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:14.726698+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETA02_2010-12-01_2026-08-01_2026-02-13_2026-09-11.zip",
+      "sha256": "97a5a95743404784cd5f83e8e5f66f890827412263da1e10278e9717d37f6925",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETA02",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2026-02-13+2026-02-28+2026-03-11+2026-03-31+2026-04-10+2026-04-30+2026-05-12+2026-05-31+2026-06-10+2026-06-30+2026-07-14+2026-07-31+2026-08-12+2026-08-31+2026-09-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:20.846021+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETA02_form.html",
+      "sha256": "e1d109d6a16930053fe05751ee54fe283c11391a3dc1e47443107a8f30828090",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETA02",
+        "body": null
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:46.293683+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_2010-12-01_2026-08-01_2013-09-17_2014-11-30.zip",
+      "sha256": "cc2f2ae39f436dfe34ffbf4cd26f18dfb2f149362b406d390994829de6f88782",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2013-09-17+2013-09-30+2013-10-30+2013-10-31+2013-11-20+2013-11-30+2013-12-17+2013-12-31+2014-01-16+2014-01-31+2014-02-20+2014-02-28+2014-03-18+2014-03-31+2014-04-15+2014-04-30+2014-05-15+2014-05-31+2014-06-17+2014-06-30+2014-07-22+2014-07-31+2014-08-19+2014-08-31+2014-09-17+2014-09-30+2014-10-22+2014-10-31+2014-11-20+2014-11-30"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:48.749407+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_2010-12-01_2026-08-01_2014-12-17_2016-02-29.zip",
+      "sha256": "5e921079c822e1ba945167629f275f57d036a8e10ed49640df03efd25502066c",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2014-12-17+2014-12-31+2015-01-16+2015-01-31+2015-02-26+2015-02-28+2015-03-24+2015-03-31+2015-04-17+2015-04-30+2015-05-22+2015-05-31+2015-06-18+2015-06-30+2015-07-17+2015-07-31+2015-08-19+2015-08-31+2015-09-16+2015-09-30+2015-10-15+2015-10-31+2015-11-17+2015-11-30+2015-12-15+2015-12-31+2016-01-20+2016-01-31+2016-02-19+2016-02-29"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:55.065248+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_2010-12-01_2026-08-01_2016-03-16_2017-05-31.zip",
+      "sha256": "9b5705335f6cf86313f7895ca84f832aae7c24187f8299d91abbf148945f3a34",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2016-03-16+2016-03-31+2016-04-14+2016-04-30+2016-05-17+2016-05-31+2016-06-16+2016-06-30+2016-07-15+2016-07-31+2016-08-16+2016-08-31+2016-09-16+2016-09-30+2016-10-18+2016-10-31+2016-11-17+2016-11-30+2016-12-15+2016-12-31+2017-01-18+2017-01-31+2017-02-15+2017-02-28+2017-03-15+2017-03-31+2017-04-14+2017-04-30+2017-05-12+2017-05-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:59.987712+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_2010-12-01_2026-08-01_2017-06-14_2018-08-31.zip",
+      "sha256": "67155e0eeb3be4d2050562a1b07dc6233569137efba0a1f8c0675647cc640cba",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2017-06-14+2017-06-30+2017-07-14+2017-07-31+2017-08-11+2017-08-31+2017-09-14+2017-09-30+2017-10-13+2017-10-31+2017-11-15+2017-11-30+2017-12-13+2017-12-31+2018-01-12+2018-01-31+2018-02-14+2018-02-28+2018-03-13+2018-03-31+2018-04-11+2018-04-30+2018-05-10+2018-05-31+2018-06-12+2018-06-30+2018-07-12+2018-07-31+2018-08-10+2018-08-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:06.529895+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_2010-12-01_2026-08-01_2018-09-13_2019-11-30.zip",
+      "sha256": "f84a5d03bcd92dde232dc33f98f087ac89142dbad45feb8d31004b560d54f8f9",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2018-09-13+2018-09-30+2018-10-11+2018-10-31+2018-11-14+2018-11-30+2018-12-12+2018-12-31+2019-01-11+2019-01-31+2019-02-13+2019-02-28+2019-03-12+2019-03-31+2019-04-10+2019-04-30+2019-05-10+2019-05-31+2019-06-12+2019-06-30+2019-07-11+2019-07-31+2019-08-13+2019-08-31+2019-09-12+2019-09-30+2019-10-10+2019-10-31+2019-11-13+2019-11-30"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:06.974141+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_2010-12-01_2026-08-01_2019-12-11_2021-02-28.zip",
+      "sha256": "04f830f9a513dcadf4d7287d57682dc6c5236cbb69fbbec5bc8f4b9b03d5b4aa",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2019-12-11+2019-12-31+2020-01-14+2020-01-31+2020-02-13+2020-02-29+2020-03-11+2020-03-31+2020-04-10+2020-04-30+2020-05-12+2020-05-31+2020-06-10+2020-06-30+2020-07-14+2020-07-31+2020-08-12+2020-08-31+2020-09-11+2020-09-30+2020-10-13+2020-10-31+2020-11-12+2020-11-30+2020-12-10+2020-12-31+2021-01-13+2021-01-31+2021-02-10+2021-02-28"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:10.889416+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_2010-12-01_2026-08-01_2021-03-10_2022-05-31.zip",
+      "sha256": "3f85e4daa1c6c2d2ea0d1abbb4a902a8f362b809b0975b2e7b1bd87773de0d85",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2021-03-10+2021-03-31+2021-04-13+2021-04-30+2021-05-12+2021-05-31+2021-06-10+2021-06-30+2021-07-13+2021-07-31+2021-08-11+2021-08-31+2021-09-14+2021-09-30+2021-10-13+2021-10-31+2021-11-10+2021-11-30+2021-12-10+2021-12-31+2022-01-12+2022-01-31+2022-02-10+2022-02-28+2022-03-10+2022-03-31+2022-04-12+2022-04-30+2022-05-11+2022-05-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:12.381693+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_2010-12-01_2026-08-01_2022-06-10_2023-08-31.zip",
+      "sha256": "2b3dffbcf0e96b0bd2041b8c63f00e8d0b384771405b96e8ab293f30323fce66",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2022-06-10+2022-06-30+2022-07-13+2022-07-31+2022-08-10+2022-08-31+2022-09-13+2022-09-30+2022-10-13+2022-10-31+2022-11-10+2022-11-30+2022-12-13+2022-12-31+2023-01-12+2023-01-31+2023-02-14+2023-02-28+2023-03-14+2023-03-31+2023-04-12+2023-04-30+2023-05-10+2023-05-31+2023-06-13+2023-06-30+2023-07-12+2023-07-31+2023-08-10+2023-08-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:16.999105+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_2010-12-01_2026-08-01_2023-09-13_2024-11-30.zip",
+      "sha256": "4f38b89532e6b4d3583d8ece7a335d543e8beb1a364f2f7dbbdfae58aa7a427d",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2023-09-13+2023-09-30+2023-10-12+2023-10-31+2023-11-14+2023-11-30+2023-12-12+2023-12-31+2024-01-11+2024-01-31+2024-02-13+2024-02-29+2024-03-12+2024-03-31+2024-04-10+2024-04-30+2024-05-15+2024-05-31+2024-06-12+2024-06-30+2024-07-11+2024-07-31+2024-08-14+2024-08-31+2024-09-11+2024-09-30+2024-10-10+2024-10-31+2024-11-13+2024-11-30"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:17.337373+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_2010-12-01_2026-08-01_2024-12-11_2026-03-11.zip",
+      "sha256": "6ec2f9f853bce993ba236b43705c97f4994beddb2345943970b9e3673eadbe93",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2024-12-11+2024-12-31+2025-01-15+2025-01-31+2025-02-12+2025-02-28+2025-03-12+2025-03-31+2025-04-10+2025-04-30+2025-05-13+2025-05-31+2025-06-11+2025-06-30+2025-07-15+2025-07-31+2025-08-12+2025-08-31+2025-09-11+2025-09-30+2025-10-24+2025-10-31+2025-11-30+2025-12-18+2025-12-31+2026-01-13+2026-01-31+2026-02-13+2026-02-28+2026-03-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:21.559879+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_2010-12-01_2026-08-01_2026-03-31_2026-09-11.zip",
+      "sha256": "88847a6f3f4569e2e5dbffd2ee466629937a8024ecf3167b403486e5e80b17c7",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2026-03-31+2026-04-10+2026-04-30+2026-05-12+2026-05-31+2026-06-10+2026-06-30+2026-07-14+2026-07-31+2026-08-12+2026-08-31+2026-09-11"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:24.573171+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/CUSR0000SETG01_form.html",
+      "sha256": "28817141b9fd753039464d0686e64c32c400c44c5ea6cff5edce0aad3effec88",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETG01",
+        "body": null
+      },
+      "retrieved_at_utc": "2026-10-02T12:18:46.340833+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/DJFUELUSGULF_2010-12-01_2026-08-31_2012-01-31_2014-06-30.zip",
+      "sha256": "77a43ce15acc771ecf9def3a2c3c2270eb938ec729f76f9a7e1a2d5468b11031",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=DJFUELUSGULF",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-31&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-01-31+2012-02-29+2012-03-31+2012-04-30+2012-05-31+2012-06-30+2012-07-31+2012-08-31+2012-09-30+2012-10-31+2012-11-30+2012-12-31+2013-01-31+2013-02-28+2013-03-31+2013-04-30+2013-05-31+2013-06-30+2013-07-31+2013-08-31+2013-09-30+2013-10-31+2013-11-30+2013-12-31+2014-01-31+2014-02-28+2014-03-31+2014-04-30+2014-05-31+2014-06-30"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:38.169308+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/DJFUELUSGULF_2010-12-01_2026-08-31_2014-07-31_2016-12-31.zip",
+      "sha256": "12200c96a9e88f13bdba5808b87261fa92029d0c6f0c9bbc9f8648e2676202e0",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=DJFUELUSGULF",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-31&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2014-07-31+2014-08-31+2014-09-30+2014-10-31+2014-11-30+2014-12-31+2015-01-31+2015-02-28+2015-03-31+2015-04-30+2015-05-31+2015-06-30+2015-07-31+2015-08-31+2015-09-30+2015-10-31+2015-11-30+2015-12-31+2016-01-31+2016-02-29+2016-03-31+2016-04-30+2016-05-31+2016-06-30+2016-07-31+2016-08-31+2016-09-30+2016-10-31+2016-11-30+2016-12-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:39.565204+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/DJFUELUSGULF_2010-12-01_2026-08-31_2017-01-31_2019-06-30.zip",
+      "sha256": "8badf2d1fc4cdade92749ea9533f88c6481f76bbcab3ecc2cd62f43a7b901f83",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=DJFUELUSGULF",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-31&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2017-01-31+2017-02-28+2017-03-31+2017-04-30+2017-05-31+2017-06-30+2017-07-31+2017-08-31+2017-09-30+2017-10-31+2017-11-30+2017-12-31+2018-01-31+2018-02-28+2018-03-31+2018-04-30+2018-05-31+2018-06-30+2018-07-31+2018-08-31+2018-09-30+2018-10-31+2018-11-30+2018-12-31+2019-01-31+2019-02-28+2019-03-31+2019-04-30+2019-05-31+2019-06-30"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:40.340666+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/DJFUELUSGULF_2010-12-01_2026-08-31_2019-07-31_2021-12-31.zip",
+      "sha256": "3922ec781e897da12f58c1bf87fc8d032bc4fd1fa57647a56ac87ff128face12",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=DJFUELUSGULF",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-31&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2019-07-31+2019-08-31+2019-09-30+2019-10-31+2019-11-30+2019-12-31+2020-01-31+2020-02-29+2020-03-31+2020-04-30+2020-05-31+2020-06-30+2020-07-31+2020-08-31+2020-09-30+2020-10-31+2020-11-30+2020-12-31+2021-01-31+2021-02-28+2021-03-31+2021-04-30+2021-05-31+2021-06-30+2021-07-31+2021-08-31+2021-09-30+2021-10-31+2021-11-30+2021-12-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:42.241658+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/DJFUELUSGULF_2010-12-01_2026-08-31_2022-01-31_2024-06-30.zip",
+      "sha256": "2d6d055b99e35c88edcbb2b5eaaa33e95ead8fde3d6193372d2ec15845ca9cc2",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=DJFUELUSGULF",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-31&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2022-01-31+2022-02-28+2022-03-31+2022-04-30+2022-05-31+2022-06-30+2022-07-31+2022-08-31+2022-09-30+2022-10-31+2022-11-30+2022-12-31+2023-01-31+2023-02-28+2023-03-31+2023-04-30+2023-05-31+2023-06-30+2023-07-31+2023-08-31+2023-09-30+2023-10-31+2023-11-30+2023-12-31+2024-01-31+2024-02-29+2024-03-31+2024-04-30+2024-05-31+2024-06-30"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:43.546969+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/DJFUELUSGULF_2010-12-01_2026-08-31_2024-07-31_2026-08-31.zip",
+      "sha256": "6dd0eff176758cd85be91cfb0ccaf1c75b47d4d4f6fb1f1a3c15bb4e056bde7e",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=DJFUELUSGULF",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-31&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2024-07-31+2024-08-31+2024-09-30+2024-10-31+2024-11-30+2024-12-31+2025-01-31+2025-02-28+2025-03-31+2025-04-30+2025-05-31+2025-06-30+2025-07-31+2025-08-31+2025-09-30+2025-10-31+2025-11-30+2025-12-31+2026-01-31+2026-02-28+2026-03-31+2026-04-30+2026-05-31+2026-06-30+2026-07-31+2026-08-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:44.521714+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/DJFUELUSGULF_form.html",
+      "sha256": "cafda9ca21f1e91d95100961dc09aa1cc86c1b39b566e413e32903d988a84b1c",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=DJFUELUSGULF",
+        "body": null
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:36.995542+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/PPIFES_2010-12-01_2026-08-01_2014-02-28_2016-07-31.zip",
+      "sha256": "2c364331df21d85ce5cfc11bb0396525ad9292c4c88af1b39565e0157a3ead5b",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PPIFES",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2014-02-28+2014-03-31+2014-04-30+2014-05-31+2014-06-30+2014-07-31+2014-08-31+2014-09-30+2014-10-31+2014-11-30+2014-12-31+2015-01-31+2015-02-28+2015-03-31+2015-04-30+2015-05-31+2015-06-30+2015-07-31+2015-08-31+2015-09-30+2015-10-31+2015-11-30+2015-12-31+2016-01-31+2016-02-29+2016-03-31+2016-04-30+2016-05-31+2016-06-30+2016-07-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:26.431001+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/PPIFES_2010-12-01_2026-08-01_2016-08-31_2019-01-31.zip",
+      "sha256": "98d71421d575fa6ccfbbecb5f24f9249d40e2df75cc4511f693bb9ff11cbe474",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PPIFES",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2016-08-31+2016-09-30+2016-10-31+2016-11-30+2016-12-31+2017-01-31+2017-02-28+2017-03-31+2017-04-30+2017-05-31+2017-06-30+2017-07-31+2017-08-31+2017-09-30+2017-10-31+2017-11-30+2017-12-31+2018-01-31+2018-02-28+2018-03-31+2018-04-30+2018-05-31+2018-06-30+2018-07-31+2018-08-31+2018-09-30+2018-10-31+2018-11-30+2018-12-31+2019-01-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:26.775768+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/PPIFES_2010-12-01_2026-08-01_2019-02-28_2021-07-31.zip",
+      "sha256": "b3eb65800039d66699e1987f630792926a418ff0da03ac8446757e3b4e27ad35",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PPIFES",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2019-02-28+2019-03-31+2019-04-30+2019-05-31+2019-06-30+2019-07-31+2019-08-31+2019-09-30+2019-10-31+2019-11-30+2019-12-31+2020-01-31+2020-02-29+2020-03-31+2020-04-30+2020-05-31+2020-06-30+2020-07-31+2020-08-31+2020-09-30+2020-10-31+2020-11-30+2020-12-31+2021-01-31+2021-02-28+2021-03-31+2021-04-30+2021-05-31+2021-06-30+2021-07-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:29.289191+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/PPIFES_2010-12-01_2026-08-01_2021-08-31_2024-01-31.zip",
+      "sha256": "f54d3d66413947f940e78c95180012ecf7fedb99025788b7cee1076dbf0b8958",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PPIFES",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2021-08-31+2021-09-30+2021-10-31+2021-11-30+2021-12-31+2022-01-31+2022-02-28+2022-03-31+2022-04-30+2022-05-31+2022-06-30+2022-07-31+2022-08-31+2022-09-30+2022-10-31+2022-11-30+2022-12-31+2023-01-31+2023-02-28+2023-03-31+2023-04-30+2023-05-31+2023-06-30+2023-07-31+2023-08-31+2023-09-30+2023-10-31+2023-11-30+2023-12-31+2024-01-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:29.842278+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/PPIFES_2010-12-01_2026-08-01_2024-02-29_2026-07-31.zip",
+      "sha256": "797b1c406c5f73d4a4c5b11f75f28e8dcf2070cfea08f318f6bcadf7bce848af",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PPIFES",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2024-02-29+2024-03-31+2024-04-30+2024-05-31+2024-06-30+2024-07-31+2024-08-31+2024-09-30+2024-10-31+2024-11-30+2024-12-31+2025-01-31+2025-02-28+2025-03-31+2025-04-30+2025-05-31+2025-06-30+2025-07-31+2025-08-31+2025-09-30+2025-10-31+2025-11-30+2025-12-31+2026-01-31+2026-02-28+2026-03-31+2026-04-30+2026-05-31+2026-06-30+2026-07-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:30.205184+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/PPIFES_2010-12-01_2026-08-01_2026-08-31_2026-08-31.zip",
+      "sha256": "a0f93cf8fdec7bc3bfad0e50c64a865097f3710478e1b8e97244ab593e919cbb",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PPIFES",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2026-08-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:33.929436+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/PPIFES_form.html",
+      "sha256": "3a113556c230cc8267c18927abf67388bf0793b7f83d061fc43cb125996a8bc7",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PPIFES",
+        "body": null
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:26.148634+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/RETAILIRSA_2010-12-01_2026-07-01_2025-01-31_2026-08-31.zip",
+      "sha256": "593063b685533687e57394a8b88b3c19f6381892d341d426ef99e79642acfd91",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RETAILIRSA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2026-07-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2025-01-31+2025-02-28+2025-03-31+2025-04-30+2025-05-31+2025-06-30+2025-07-31+2025-08-31+2025-09-30+2025-10-31+2025-11-30+2025-12-31+2026-01-31+2026-02-28+2026-03-31+2026-04-30+2026-05-31+2026-06-30+2026-07-31+2026-08-31"
+      },
+      "retrieved_at_utc": "2026-10-02T12:25:28.237882+00:00"
+    },
+    {
+      "research_archive_file": "data/broad_v1/raw/alfred/RETAILIRSA_form.html",
+      "sha256": "76c94e2c81999e26429eaeb6872f975bad8a8eaf48abdfe6f6b4d3cae8c2ed3d",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RETAILIRSA",
+        "body": null
+      },
+      "retrieved_at_utc": "2026-10-02T12:19:33.060611+00:00"
+    },
+    {
+      "research_archive_file": "data/drill_v1/raw/alfred/ICSA_2010-01-01_2026-08-29_2012-01-31_2014-06-30.zip",
+      "sha256": "063ea8af32d170ccbea2edb03d3b41a6915fac91d2715eed6dd981a57be52654",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=ICSA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-01-01&form%5Bobs_end_date%5D=2026-08-29&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-01-31+2012-02-29+2012-03-31+2012-04-30+2012-05-31+2012-06-30+2012-07-31+2012-08-31+2012-09-30+2012-10-31+2012-11-30+2012-12-31+2013-01-31+2013-02-28+2013-03-31+2013-04-30+2013-05-31+2013-06-30+2013-07-31+2013-08-31+2013-09-30+2013-10-31+2013-11-30+2013-12-31+2014-01-31+2014-02-28+2014-03-31+2014-04-30+2014-05-31+2014-06-30"
+      },
+      "retrieved_at_utc": "2026-10-02T13:37:44.539805+00:00"
+    },
+    {
+      "research_archive_file": "data/drill_v1/raw/alfred/ICSA_2010-01-01_2026-08-29_2014-07-31_2016-12-31.zip",
+      "sha256": "5c59548b87c136f7637171623d781c36134853093570747a12faee6d96d56da4",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=ICSA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-01-01&form%5Bobs_end_date%5D=2026-08-29&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2014-07-31+2014-08-31+2014-09-30+2014-10-31+2014-11-30+2014-12-31+2015-01-31+2015-02-28+2015-03-31+2015-04-30+2015-05-31+2015-06-30+2015-07-31+2015-08-31+2015-09-30+2015-10-31+2015-11-30+2015-12-31+2016-01-31+2016-02-29+2016-03-31+2016-04-30+2016-05-31+2016-06-30+2016-07-31+2016-08-31+2016-09-30+2016-10-31+2016-11-30+2016-12-31"
+      },
+      "retrieved_at_utc": "2026-10-02T13:37:45.013701+00:00"
+    },
+    {
+      "research_archive_file": "data/drill_v1/raw/alfred/ICSA_2010-01-01_2026-08-29_2017-01-31_2019-06-30.zip",
+      "sha256": "dd940dabbcfccebcee1dd45b25ad8c00b4493beb237d05382fcc64898b5c1da3",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=ICSA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-01-01&form%5Bobs_end_date%5D=2026-08-29&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2017-01-31+2017-02-28+2017-03-31+2017-04-30+2017-05-31+2017-06-30+2017-07-31+2017-08-31+2017-09-30+2017-10-31+2017-11-30+2017-12-31+2018-01-31+2018-02-28+2018-03-31+2018-04-30+2018-05-31+2018-06-30+2018-07-31+2018-08-31+2018-09-30+2018-10-31+2018-11-30+2018-12-31+2019-01-31+2019-02-28+2019-03-31+2019-04-30+2019-05-31+2019-06-30"
+      },
+      "retrieved_at_utc": "2026-10-02T13:37:45.567442+00:00"
+    },
+    {
+      "research_archive_file": "data/drill_v1/raw/alfred/ICSA_2010-01-01_2026-08-29_2019-07-31_2021-12-31.zip",
+      "sha256": "60ce893d9c193041fd1f693faf4a44459fb4ed34041ca24ae3b69f9f772f1367",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=ICSA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-01-01&form%5Bobs_end_date%5D=2026-08-29&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2019-07-31+2019-08-31+2019-09-30+2019-10-31+2019-11-30+2019-12-31+2020-01-31+2020-02-29+2020-03-31+2020-04-30+2020-05-31+2020-06-30+2020-07-31+2020-08-31+2020-09-30+2020-10-31+2020-11-30+2020-12-31+2021-01-31+2021-02-28+2021-03-31+2021-04-30+2021-05-31+2021-06-30+2021-07-31+2021-08-31+2021-09-30+2021-10-31+2021-11-30+2021-12-31"
+      },
+      "retrieved_at_utc": "2026-10-02T13:37:47.060682+00:00"
+    },
+    {
+      "research_archive_file": "data/drill_v1/raw/alfred/ICSA_2010-01-01_2026-08-29_2022-01-31_2024-06-30.zip",
+      "sha256": "876f928f62abeef835323473959bd2efca52881ed8c7561e790d8912686f2925",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=ICSA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-01-01&form%5Bobs_end_date%5D=2026-08-29&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2022-01-31+2022-02-28+2022-03-31+2022-04-30+2022-05-31+2022-06-30+2022-07-31+2022-08-31+2022-09-30+2022-10-31+2022-11-30+2022-12-31+2023-01-31+2023-02-28+2023-03-31+2023-04-30+2023-05-31+2023-06-30+2023-07-31+2023-08-31+2023-09-30+2023-10-31+2023-11-30+2023-12-31+2024-01-31+2024-02-29+2024-03-31+2024-04-30+2024-05-31+2024-06-30"
+      },
+      "retrieved_at_utc": "2026-10-02T13:37:47.725640+00:00"
+    },
+    {
+      "research_archive_file": "data/drill_v1/raw/alfred/ICSA_2010-01-01_2026-08-29_2024-07-31_2026-08-31.zip",
+      "sha256": "12b7f66f8848963f607bced5ec41a2547bc52236bed4121241ec215a8f67dfc5",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=ICSA",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-01-01&form%5Bobs_end_date%5D=2026-08-29&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2024-07-31+2024-08-31+2024-09-30+2024-10-31+2024-11-30+2024-12-31+2025-01-31+2025-02-28+2025-03-31+2025-04-30+2025-05-31+2025-06-30+2025-07-31+2025-08-31+2025-09-30+2025-10-31+2025-11-30+2025-12-31+2026-01-31+2026-02-28+2026-03-31+2026-04-30+2026-05-31+2026-06-30+2026-07-31+2026-08-31"
+      },
+      "retrieved_at_utc": "2026-10-02T13:37:48.621981+00:00"
+    },
+    {
+      "research_archive_file": "data/drill_v1/raw/alfred/ICSA_form.html",
+      "sha256": "0fa9d00eaa569221524665c72050ac5af975aa9b29e2207a3cc3baa80ef6b127",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=ICSA",
+        "body": null
+      },
+      "retrieved_at_utc": "2026-10-02T13:37:43.951134+00:00"
+    },
+    {
+      "research_archive_file": "data/experiment_v1/raw/alfred/AHETPI_matrix.zip",
+      "sha256": "c160b4ea9a15a9bcefbb601a71ad2b1ebc1127a555a75fd408dd70bb8c660828",
+      "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=AHETPI",
+      "method": "POST",
+      "form_body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-01-01&form%5Bobs_end_date%5D=2024-12-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-01-31+2012-02-29+2012-03-31+2012-04-30+2012-05-31+2012-06-30+2012-07-31+2012-08-31+2012-09-30+2012-10-31+2012-11-30+2012-12-31+2013-01-31+2013-02-28+2013-03-31+2013-04-30+2013-05-31+2013-06-30+2013-07-31+2013-08-31+2013-09-30+2013-10-31+2013-11-30+2013-12-31+2014-01-31+2014-02-28+2014-03-31+2014-04-30+2014-05-31+2014-06-30+2014-07-31+2014-08-31+2014-09-30+2014-10-31+2014-11-30+2014-12-31+2015-01-31+2015-02-28+2015-03-31+2015-04-30+2015-05-31+2015-06-30+2015-07-31+2015-08-31+2015-09-30+2015-10-31+2015-11-30+2015-12-31+2016-01-31+2016-02-29+2016-03-31+2016-04-30+2016-05-31+2016-06-30+2016-07-31+2016-08-31+2016-09-30+2016-10-31+2016-11-30+2016-12-31+2017-01-31+2017-02-28+2017-03-31+2017-04-30+2017-05-31+2017-06-30+2017-07-31+2017-08-31+2017-09-30+2017-10-31+2017-11-30+2017-12-31+2018-01-31+2018-02-28+2018-03-31+2018-04-30+2018-05-31+2018-06-30+2018-07-31+2018-08-31+2018-09-30+2018-10-31+2018-11-30+2018-12-31+2019-01-31+2019-02-28+2019-03-31+2019-04-30+2019-05-31+2019-06-30+2019-07-31+2019-08-31+2019-09-30+2019-10-31+2019-11-30+2019-12-31+2020-01-31+2020-02-29+2020-03-31+2020-04-30+2020-05-31+2020-06-30+2020-07-31+2020-08-31+2020-09-30+2020-10-31+2020-11-30+2020-12-31+2021-01-31+2021-02-28+2021-03-31+2021-04-30+2021-05-31+2021-06-30+2021-07-31+2021-08-31+2021-09-30+2021-10-31+2021-11-30+2021-12-31+2022-01-31+2022-02-28+2022-03-31+2022-04-30+2022-05-31+2022-06-30+2022-07-31+2022-08-31+2022-09-30+2022-10-31+2022-11-30+2022-12-31+2023-01-31+2023-02-28+2023-03-31+2023-04-30+2023-05-31+2023-06-30+2023-07-31+2023-08-31+2023-09-30+2023-10-31+2023-11-30+2023-12-31+2024-01-31+2024-02-29+2024-03-31+2024-04-30+2024-05-31+2024-06-30+2024-07-31+2024-08-31+2024-09-30+2024-10-31+2024-11-30+2024-12-31",
+      "retrieved_at_utc": "2026-09-29T14:12:19.881795+00:00"
+    },
+    {
+      "research_archive_file": "data/experiment_v1/raw/alfred/CPILFESL_matrix.zip",
+      "sha256": "a5160751e6aa43eed95655e7b6361252ed09a346101f0b3fc85f97dfbe625fcd",
+      "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CPILFESL",
+      "method": "POST",
+      "form_body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2024-12-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-01-31+2012-02-16+2012-02-17+2012-02-29+2012-03-15+2012-03-16+2012-03-31+2012-04-12+2012-04-13+2012-04-30+2012-05-14+2012-05-15+2012-05-31+2012-06-13+2012-06-14+2012-06-30+2012-07-16+2012-07-17+2012-07-31+2012-08-14+2012-08-15+2012-08-31+2012-09-13+2012-09-14+2012-09-30+2012-10-15+2012-10-16+2012-10-31+2012-11-14+2012-11-15+2012-11-30+2012-12-13+2012-12-14+2012-12-31+2013-01-15+2013-01-16+2013-01-31+2013-02-20+2013-02-21+2013-02-28+2013-03-14+2013-03-15+2013-03-31+2013-04-15+2013-04-16+2013-04-30+2013-05-15+2013-05-16+2013-05-31+2013-06-17+2013-06-18+2013-06-30+2013-07-15+2013-07-16+2013-07-31+2013-08-14+2013-08-15+2013-08-31+2013-09-16+2013-09-17+2013-09-30+2013-10-29+2013-10-30+2013-10-31+2013-11-19+2013-11-20+2013-11-30+2013-12-16+2013-12-17+2013-12-31+2014-01-15+2014-01-16+2014-01-31+2014-02-19+2014-02-20+2014-02-28+2014-03-17+2014-03-18+2014-03-31+2014-04-14+2014-04-15+2014-04-30+2014-05-14+2014-05-15+2014-05-31+2014-06-16+2014-06-17+2014-06-30+2014-07-21+2014-07-22+2014-07-31+2014-08-18+2014-08-19+2014-08-31+2014-09-16+2014-09-17+2014-09-30+2014-10-21+2014-10-22+2014-10-31+2014-11-19+2014-11-20+2014-11-30+2014-12-16+2014-12-17+2014-12-31+2015-01-15+2015-01-16+2015-01-31+2015-02-25+2015-02-26+2015-02-28+2015-03-23+2015-03-24+2015-03-31+2015-04-16+2015-04-17+2015-04-30+2015-05-21+2015-05-22+2015-05-31+2015-06-17+2015-06-18+2015-06-30+2015-07-16+2015-07-17+2015-07-31+2015-08-18+2015-08-19+2015-08-31+2015-09-15+2015-09-16+2015-09-30+2015-10-14+2015-10-15+2015-10-31+2015-11-16+2015-11-17+2015-11-30+2015-12-14+2015-12-15+2015-12-31+2016-01-19+2016-01-20+2016-01-31+2016-02-18+2016-02-19+2016-02-29+2016-03-15+2016-03-16+2016-03-31+2016-04-13+2016-04-14+2016-04-30+2016-05-16+2016-05-17+2016-05-31+2016-06-15+2016-06-16+2016-06-30+2016-07-14+2016-07-15+2016-07-31+2016-08-15+2016-08-16+2016-08-31+2016-09-15+2016-09-16+2016-09-30+2016-10-17+2016-10-18+2016-10-31+2016-11-16+2016-11-17+2016-11-30+2016-12-14+2016-12-15+2016-12-31+2017-01-17+2017-01-18+2017-01-31+2017-02-14+2017-02-15+2017-02-28+2017-03-14+2017-03-15+2017-03-31+2017-04-13+2017-04-14+2017-04-30+2017-05-11+2017-05-12+2017-05-31+2017-06-13+2017-06-14+2017-06-30+2017-07-13+2017-07-14+2017-07-31+2017-08-10+2017-08-11+2017-08-31+2017-09-13+2017-09-14+2017-09-30+2017-10-12+2017-10-13+2017-10-31+2017-11-14+2017-11-15+2017-11-30+2017-12-12+2017-12-13+2017-12-31+2018-01-11+2018-01-12+2018-01-31+2018-02-13+2018-02-14+2018-02-28+2018-03-12+2018-03-13+2018-03-31+2018-04-10+2018-04-11+2018-04-30+2018-05-09+2018-05-10+2018-05-31+2018-06-11+2018-06-12+2018-06-30+2018-07-11+2018-07-12+2018-07-31+2018-08-09+2018-08-10+2018-08-31+2018-09-12+2018-09-13+2018-09-30+2018-10-10+2018-10-11+2018-10-31+2018-11-13+2018-11-14+2018-11-30+2018-12-11+2018-12-12+2018-12-31+2019-01-10+2019-01-11+2019-01-31+2019-02-12+2019-02-13+2019-02-28+2019-03-11+2019-03-12+2019-03-31+2019-04-09+2019-04-10+2019-04-30+2019-05-09+2019-05-10+2019-05-31+2019-06-11+2019-06-12+2019-06-30+2019-07-10+2019-07-11+2019-07-31+2019-08-12+2019-08-13+2019-08-31+2019-09-11+2019-09-12+2019-09-30+2019-10-09+2019-10-10+2019-10-31+2019-11-12+2019-11-13+2019-11-30+2019-12-10+2019-12-11+2019-12-31+2020-01-13+2020-01-14+2020-01-31+2020-02-12+2020-02-13+2020-02-29+2020-03-10+2020-03-11+2020-03-31+2020-04-09+2020-04-10+2020-04-30+2020-05-11+2020-05-12+2020-05-31+2020-06-09+2020-06-10+2020-06-30+2020-07-13+2020-07-14+2020-07-31+2020-08-11+2020-08-12+2020-08-31+2020-09-10+2020-09-11+2020-09-30+2020-10-12+2020-10-13+2020-10-31+2020-11-11+2020-11-12+2020-11-30+2020-12-09+2020-12-10+2020-12-31+2021-01-12+2021-01-13+2021-01-31+2021-02-09+2021-02-10+2021-02-28+2021-03-09+2021-03-10+2021-03-31+2021-04-12+2021-04-13+2021-04-30+2021-05-11+2021-05-12+2021-05-31+2021-06-09+2021-06-10+2021-06-30+2021-07-12+2021-07-13+2021-07-31+2021-08-10+2021-08-11+2021-08-31+2021-09-13+2021-09-14+2021-09-30+2021-10-12+2021-10-13+2021-10-31+2021-11-09+2021-11-10+2021-11-30+2021-12-09+2021-12-10+2021-12-31+2022-01-11+2022-01-12+2022-01-31+2022-02-09+2022-02-10+2022-02-28+2022-03-09+2022-03-10+2022-03-31+2022-04-11+2022-04-12+2022-04-30+2022-05-10+2022-05-11+2022-05-31+2022-06-09+2022-06-10+2022-06-30+2022-07-12+2022-07-13+2022-07-31+2022-08-09+2022-08-10+2022-08-31+2022-09-12+2022-09-13+2022-09-30+2022-10-12+2022-10-13+2022-10-31+2022-11-09+2022-11-10+2022-11-30+2022-12-12+2022-12-13+2022-12-31+2023-01-11+2023-01-12+2023-01-31+2023-02-13+2023-02-14+2023-02-28+2023-03-13+2023-03-14+2023-03-31+2023-04-11+2023-04-12+2023-04-30+2023-05-09+2023-05-10+2023-05-31+2023-06-12+2023-06-13+2023-06-30+2023-07-11+2023-07-12+2023-07-31+2023-08-09+2023-08-10+2023-08-31+2023-09-12+2023-09-13+2023-09-30+2023-10-11+2023-10-12+2023-10-31+2023-11-13+2023-11-14+2023-11-30+2023-12-11+2023-12-12+2023-12-31+2024-01-10+2024-01-11+2024-01-31+2024-02-12+2024-02-13+2024-02-29+2024-03-11+2024-03-12+2024-03-31+2024-04-09+2024-04-10+2024-04-30+2024-05-14+2024-05-15+2024-05-31+2024-06-11+2024-06-12+2024-06-30+2024-07-10+2024-07-11+2024-07-31+2024-08-13+2024-08-14+2024-08-31+2024-09-10+2024-09-11+2024-09-30+2024-10-09+2024-10-10+2024-10-31+2024-11-12+2024-11-13+2024-11-30+2024-12-10+2024-12-11+2024-12-31+2025-01-14+2025-01-15",
+      "retrieved_at_utc": "2026-09-28T17:50:37.519744+00:00"
+    },
+    {
+      "research_archive_file": "data/experiment_v1/raw/alfred/CUSR0000SEHA_matrix.zip",
+      "sha256": "1d082b77386109b5152b71595f3a50bbb4aa90aa6ef655fddf9acebe3a3e1b3e",
+      "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHA",
+      "method": "POST",
+      "form_body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2009-01-01&form%5Bobs_end_date%5D=2024-12-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-01-31+2012-02-29+2012-03-31+2012-04-30+2012-05-31+2012-06-30+2012-07-31+2012-08-31+2012-09-30+2012-10-31+2012-11-30+2012-12-31+2013-01-31+2013-02-28+2013-03-31+2013-04-30+2013-05-31+2013-06-30+2013-07-31+2013-08-31+2013-09-30+2013-10-31+2013-11-30+2013-12-31+2014-01-31+2014-02-28+2014-03-31+2014-04-30+2014-05-31+2014-06-30+2014-07-31+2014-08-31+2014-09-30+2014-10-31+2014-11-30+2014-12-31+2015-01-31+2015-02-28+2015-03-31+2015-04-30+2015-05-31+2015-06-30+2015-07-31+2015-08-31+2015-09-30+2015-10-31+2015-11-30+2015-12-31+2016-01-31+2016-02-29+2016-03-31+2016-04-30+2016-05-31+2016-06-30+2016-07-31+2016-08-31+2016-09-30+2016-10-31+2016-11-30+2016-12-31+2017-01-31+2017-02-28+2017-03-31+2017-04-30+2017-05-31+2017-06-30+2017-07-31+2017-08-31+2017-09-30+2017-10-31+2017-11-30+2017-12-31+2018-01-31+2018-02-28+2018-03-31+2018-04-30+2018-05-31+2018-06-30+2018-07-31+2018-08-31+2018-09-30+2018-10-31+2018-11-30+2018-12-31+2019-01-31+2019-02-28+2019-03-31+2019-04-30+2019-05-31+2019-06-30+2019-07-31+2019-08-31+2019-09-30+2019-10-31+2019-11-30+2019-12-31+2020-01-31+2020-02-29+2020-03-31+2020-04-30+2020-05-31+2020-06-30+2020-07-31+2020-08-31+2020-09-30+2020-10-31+2020-11-30+2020-12-31+2021-01-31+2021-02-28+2021-03-31+2021-04-30+2021-05-31+2021-06-30+2021-07-31+2021-08-31+2021-09-30+2021-10-31+2021-11-30+2021-12-31+2022-01-31+2022-02-28+2022-03-31+2022-04-30+2022-05-31+2022-06-30+2022-07-31+2022-08-31+2022-09-30+2022-10-31+2022-11-30+2022-12-31+2023-01-31+2023-02-28+2023-03-31+2023-04-30+2023-05-31+2023-06-30+2023-07-31+2023-08-31+2023-09-30+2023-10-31+2023-11-30+2023-12-31+2024-01-31+2024-02-29+2024-03-31+2024-04-30+2024-05-31+2024-06-30+2024-07-31+2024-08-31+2024-09-30+2024-10-31+2024-11-30+2024-12-31",
+      "retrieved_at_utc": "2026-09-29T14:34:20.729929+00:00"
+    },
+    {
+      "research_archive_file": "data/experiment_v1/raw/alfred/CUSR0000SEHC_matrix.zip",
+      "sha256": "3d917b99961a5bb614226bc1ae25fd49d40833950c7faa699cf956d49b8389e5",
+      "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SEHC",
+      "method": "POST",
+      "form_body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2009-01-01&form%5Bobs_end_date%5D=2024-12-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-01-31+2012-02-29+2012-03-31+2012-04-30+2012-05-31+2012-06-30+2012-07-31+2012-08-31+2012-09-30+2012-10-31+2012-11-30+2012-12-31+2013-01-31+2013-02-28+2013-03-31+2013-04-30+2013-05-31+2013-06-30+2013-07-31+2013-08-31+2013-09-30+2013-10-31+2013-11-30+2013-12-31+2014-01-31+2014-02-28+2014-03-31+2014-04-30+2014-05-31+2014-06-30+2014-07-31+2014-08-31+2014-09-30+2014-10-31+2014-11-30+2014-12-31+2015-01-31+2015-02-28+2015-03-31+2015-04-30+2015-05-31+2015-06-30+2015-07-31+2015-08-31+2015-09-30+2015-10-31+2015-11-30+2015-12-31+2016-01-31+2016-02-29+2016-03-31+2016-04-30+2016-05-31+2016-06-30+2016-07-31+2016-08-31+2016-09-30+2016-10-31+2016-11-30+2016-12-31+2017-01-31+2017-02-28+2017-03-31+2017-04-30+2017-05-31+2017-06-30+2017-07-31+2017-08-31+2017-09-30+2017-10-31+2017-11-30+2017-12-31+2018-01-31+2018-02-28+2018-03-31+2018-04-30+2018-05-31+2018-06-30+2018-07-31+2018-08-31+2018-09-30+2018-10-31+2018-11-30+2018-12-31+2019-01-31+2019-02-28+2019-03-31+2019-04-30+2019-05-31+2019-06-30+2019-07-31+2019-08-31+2019-09-30+2019-10-31+2019-11-30+2019-12-31+2020-01-31+2020-02-29+2020-03-31+2020-04-30+2020-05-31+2020-06-30+2020-07-31+2020-08-31+2020-09-30+2020-10-31+2020-11-30+2020-12-31+2021-01-31+2021-02-28+2021-03-31+2021-04-30+2021-05-31+2021-06-30+2021-07-31+2021-08-31+2021-09-30+2021-10-31+2021-11-30+2021-12-31+2022-01-31+2022-02-28+2022-03-31+2022-04-30+2022-05-31+2022-06-30+2022-07-31+2022-08-31+2022-09-30+2022-10-31+2022-11-30+2022-12-31+2023-01-31+2023-02-28+2023-03-31+2023-04-30+2023-05-31+2023-06-30+2023-07-31+2023-08-31+2023-09-30+2023-10-31+2023-11-30+2023-12-31+2024-01-31+2024-02-29+2024-03-31+2024-04-30+2024-05-31+2024-06-30+2024-07-31+2024-08-31+2024-09-30+2024-10-31+2024-11-30+2024-12-31",
+      "retrieved_at_utc": "2026-09-29T14:34:20.872142+00:00"
+    },
+    {
+      "research_archive_file": "data/experiment_v1/raw/alfred/CUSR0000SETA02_matrix.zip",
+      "sha256": "ed81f8cf0f599f6d7ecf20ff332e934f78111320aa24526861792333bfd8232f",
+      "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUSR0000SETA02",
+      "method": "POST",
+      "form_body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-12-01&form%5Bobs_end_date%5D=2024-12-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2012-01-31+2012-02-29+2012-03-31+2012-04-30+2012-05-31+2012-06-30+2012-07-31+2012-08-31+2012-09-30+2012-10-31+2012-11-30+2012-12-31+2013-01-31+2013-02-28+2013-03-31+2013-04-30+2013-05-31+2013-06-30+2013-07-31+2013-08-31+2013-09-30+2013-10-31+2013-11-30+2013-12-31+2014-01-31+2014-02-28+2014-03-31+2014-04-30+2014-05-31+2014-06-30+2014-07-31+2014-08-31+2014-09-30+2014-10-31+2014-11-30+2014-12-31+2015-01-31+2015-02-28+2015-03-31+2015-04-30+2015-05-31+2015-06-30+2015-07-31+2015-08-31+2015-09-30+2015-10-31+2015-11-30+2015-12-31+2016-01-31+2016-02-29+2016-03-31+2016-04-30+2016-05-31+2016-06-30+2016-07-31+2016-08-31+2016-09-30+2016-10-31+2016-11-30+2016-12-31+2017-01-31+2017-02-28+2017-03-31+2017-04-30+2017-05-31+2017-06-30+2017-07-31+2017-08-31+2017-09-30+2017-10-31+2017-11-30+2017-12-31+2018-01-31+2018-02-28+2018-03-31+2018-04-30+2018-05-31+2018-06-30+2018-07-31+2018-08-31+2018-09-30+2018-10-31+2018-11-30+2018-12-31+2019-01-31+2019-02-28+2019-03-31+2019-04-30+2019-05-31+2019-06-30+2019-07-31+2019-08-31+2019-09-30+2019-10-31+2019-11-30+2019-12-31+2020-01-31+2020-02-29+2020-03-31+2020-04-30+2020-05-31+2020-06-30+2020-07-31+2020-08-31+2020-09-30+2020-10-31+2020-11-30+2020-12-31+2021-01-31+2021-02-28+2021-03-31+2021-04-30+2021-05-31+2021-06-30+2021-07-31+2021-08-31+2021-09-30+2021-10-31+2021-11-30+2021-12-31+2022-01-31+2022-02-28+2022-03-31+2022-04-30+2022-05-31+2022-06-30+2022-07-31+2022-08-31+2022-09-30+2022-10-31+2022-11-30+2022-12-31+2023-01-31+2023-02-28+2023-03-31+2023-04-30+2023-05-31+2023-06-30+2023-07-31+2023-08-31+2023-09-30+2023-10-31+2023-11-30+2023-12-31+2024-01-31+2024-02-29+2024-03-31+2024-04-30+2024-05-31+2024-06-30+2024-07-31+2024-08-31+2024-09-30+2024-10-31+2024-11-30+2024-12-31",
+      "retrieved_at_utc": "2026-09-28T17:50:38.785515+00:00"
+    },
+    {
+      "research_archive_file": "data/experiment_v1/raw/alfred/RETAILIRSA_matrix.zip",
+      "sha256": "93b6d42f7e7302e56001a47e2d0b5fcb61ed59db3fa16814ac784676ce05e885",
+      "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RETAILIRSA",
+      "method": "POST",
+      "form_body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2010-01-01&form%5Bobs_end_date%5D=2024-12-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2013-06-30+2013-07-31+2013-08-31+2013-09-30+2013-10-31+2013-11-30+2013-12-31+2014-01-31+2014-02-28+2014-03-31+2014-04-30+2014-05-31+2014-06-30+2014-07-31+2014-08-31+2014-09-30+2014-10-31+2014-11-30+2014-12-31+2015-01-31+2015-02-28+2015-03-31+2015-04-30+2015-05-31+2015-06-30+2015-07-31+2015-08-31+2015-09-30+2015-10-31+2015-11-30+2015-12-31+2016-01-31+2016-02-29+2016-03-31+2016-04-30+2016-05-31+2016-06-30+2016-07-31+2016-08-31+2016-09-30+2016-10-31+2016-11-30+2016-12-31+2017-01-31+2017-02-28+2017-03-31+2017-04-30+2017-05-31+2017-06-30+2017-07-31+2017-08-31+2017-09-30+2017-10-31+2017-11-30+2017-12-31+2018-01-31+2018-02-28+2018-03-31+2018-04-30+2018-05-31+2018-06-30+2018-07-31+2018-08-31+2018-09-30+2018-10-31+2018-11-30+2018-12-31+2019-01-31+2019-02-28+2019-03-31+2019-04-30+2019-05-31+2019-06-30+2019-07-31+2019-08-31+2019-09-30+2019-10-31+2019-11-30+2019-12-31+2020-01-31+2020-02-29+2020-03-31+2020-04-30+2020-05-31+2020-06-30+2020-07-31+2020-08-31+2020-09-30+2020-10-31+2020-11-30+2020-12-31+2021-01-31+2021-02-28+2021-03-31+2021-04-30+2021-05-31+2021-06-30+2021-07-31+2021-08-31+2021-09-30+2021-10-31+2021-11-30+2021-12-31+2022-01-31+2022-02-28+2022-03-31+2022-04-30+2022-05-31+2022-06-30+2022-07-31+2022-08-31+2022-09-30+2022-10-31+2022-11-30+2022-12-31+2023-01-31+2023-02-28+2023-03-31+2023-04-30+2023-05-31+2023-06-30+2023-07-31+2023-08-31+2023-09-30+2023-10-31+2023-11-30+2023-12-31+2024-01-31+2024-02-29+2024-03-31+2024-04-30+2024-05-31+2024-06-30+2024-07-31+2024-08-31+2024-09-30+2024-10-31+2024-11-30+2024-12-31",
+      "retrieved_at_utc": "2026-09-29T14:12:20.543243+00:00"
+    },
+    {
+      "research_archive_file": "data/final_evaluation_v1/raw/core_2025-01-31_2025-12-17.zip",
+      "sha256": "b190cf6584d1e33d8a382267f232ddbf5abfb2a1b6490ae81c5ac1421af8a501",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CPILFESL",
+        "method": "POST",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2023-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2025-01-31+2025-02-11+2025-02-12+2025-02-28+2025-03-11+2025-03-12+2025-03-31+2025-04-09+2025-04-10+2025-04-30+2025-05-12+2025-05-13+2025-05-31+2025-06-10+2025-06-11+2025-06-30+2025-07-14+2025-07-15+2025-07-31+2025-08-11+2025-08-12+2025-08-31+2025-09-10+2025-09-11+2025-09-30+2025-10-23+2025-10-24+2025-10-31+2025-11-30+2025-12-17"
+      },
+      "retrieved_at_utc": "2026-10-02T00:08:55.681420+00:00"
+    },
+    {
+      "research_archive_file": "data/final_evaluation_v1/raw/core_2025-12-18_2026-09-11.zip",
+      "sha256": "d4279d8935c3eb716e3671287f55c142b2ada1b0f527f4fff771fe74dbea54ec",
+      "request": {
+        "url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CPILFESL",
+        "method": "POST",
+        "body": "form%5Bunits%5D=lin&form%5Bobs_start_date%5D=2023-12-01&form%5Bobs_end_date%5D=2026-08-01&form%5Bfile_type%5D=2&form%5Bfile_format%5D=csv&form%5Bdownload_data%5D=&form%5Bentered_vintage_dates%5D=2025-12-18+2025-12-31+2026-01-12+2026-01-13+2026-01-31+2026-02-12+2026-02-13+2026-02-28+2026-03-10+2026-03-11+2026-03-31+2026-04-09+2026-04-10+2026-04-30+2026-05-11+2026-05-12+2026-05-31+2026-06-09+2026-06-10+2026-06-30+2026-07-13+2026-07-14+2026-07-31+2026-08-11+2026-08-12+2026-08-31+2026-09-10+2026-09-11"
+      },
+      "retrieved_at_utc": "2026-10-02T00:08:56.231809+00:00"
+    }
+  ]
+}

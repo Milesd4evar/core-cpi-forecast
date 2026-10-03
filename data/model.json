@@ -1,0 +1,223 @@
+{
+  "alpha": 10,
+  "minimum_training_rows": 24,
+  "evaluation_start": "2019-01-01",
+  "evaluation_end": "2026-08-01",
+  "parent": {
+    "rent": {
+      "columns": [
+        "rent_lag1",
+        "rent_avg3",
+        "rent_avg12",
+        "zori_growth12_lag6",
+        "zori_growth12_lag12"
+      ],
+      "positive": [
+        "zori_growth12_lag6",
+        "zori_growth12_lag12"
+      ],
+      "alpha": 10.0
+    },
+    "oer": {
+      "columns": [
+        "oer_lag1",
+        "oer_avg3",
+        "oer_avg12",
+        "zori_growth12_lag6",
+        "zori_growth12_lag12"
+      ],
+      "positive": [
+        "zori_growth12_lag6",
+        "zori_growth12_lag12"
+      ],
+      "alpha": 10.0
+    },
+    "used": {
+      "columns": [
+        "used_lag1",
+        "used_avg3",
+        "used_avg12",
+        "manheim_growth1_lag1",
+        "manheim_growth1_lag2",
+        "manheim_growth1_lag3"
+      ],
+      "positive": [
+        "manheim_growth1_lag1",
+        "manheim_growth1_lag2",
+        "manheim_growth1_lag3"
+      ],
+      "alpha": 10.0
+    },
+    "air": {
+      "columns": [
+        "air_lag1",
+        "air_avg3",
+        "air_avg12",
+        "jet_change1",
+        "jet_change3"
+      ],
+      "positive": [],
+      "alpha": 10.0
+    },
+    "hotel": {
+      "columns": [
+        "hotel_lag1",
+        "hotel_avg3",
+        "hotel_avg12",
+        "jet_change1",
+        "jet_change3"
+      ],
+      "positive": [],
+      "alpha": 10.0
+    },
+    "medical": {
+      "columns": [
+        "medical_lag1",
+        "medical_avg3",
+        "medical_avg12",
+        "month_sin",
+        "month_cos",
+        "wage_growth3"
+      ],
+      "positive": [],
+      "alpha": 10.0
+    },
+    "remainder": {
+      "columns": [
+        "remainder_lag1",
+        "remainder_avg3",
+        "remainder_avg12",
+        "empire_prices_paid",
+        "ppi_growth3",
+        "inventory_level"
+      ],
+      "positive": [],
+      "alpha": 10.0
+    }
+  },
+  "final": {
+    "rent": {
+      "columns": [
+        "rent_lag1",
+        "rent_avg3",
+        "rent_avg12",
+        "zori_growth12_lag6",
+        "zori_growth12_lag12"
+      ],
+      "positive": [
+        "zori_growth12_lag6",
+        "zori_growth12_lag12"
+      ],
+      "alpha": 10.0
+    },
+    "oer": {
+      "columns": [
+        "oer_lag1",
+        "oer_avg3",
+        "oer_avg12",
+        "zori_growth12_lag6",
+        "zori_growth12_lag12"
+      ],
+      "positive": [
+        "zori_growth12_lag6",
+        "zori_growth12_lag12"
+      ],
+      "alpha": 10.0
+    },
+    "used": {
+      "columns": [
+        "used_lag1",
+        "used_avg3",
+        "wholesale_positive",
+        "wholesale_negative",
+        "retail_catchup_gap3_exact"
+      ],
+      "positive": [
+        "retail_catchup_gap3_exact",
+        "used_avg3",
+        "used_lag1",
+        "wholesale_negative",
+        "wholesale_positive"
+      ],
+      "alpha": 10.0
+    },
+    "air": {
+      "columns": [
+        "air_lag1",
+        "air_avg3",
+        "air_avg12",
+        "jet_change1",
+        "jet_change3",
+        "demand_change",
+        "demand_level",
+        "year_sin",
+        "year_cos"
+      ],
+      "positive": [
+        "air_avg12",
+        "air_avg3",
+        "air_lag1",
+        "demand_change",
+        "demand_level"
+      ],
+      "alpha": 10.0
+    },
+    "hotel": {
+      "columns": [
+        "hotel_lag1",
+        "hotel_avg3",
+        "hotel_avg12",
+        "jet_change1",
+        "jet_change3",
+        "demand_change",
+        "demand_level",
+        "year_sin",
+        "year_cos"
+      ],
+      "positive": [
+        "demand_change",
+        "demand_level",
+        "hotel_avg12",
+        "hotel_avg3",
+        "hotel_lag1"
+      ],
+      "alpha": 10.0
+    },
+    "medical": {
+      "columns": [
+        "medical_lag1",
+        "medical_avg3",
+        "medical_avg12",
+        "health_continuation",
+        "health_reset"
+      ],
+      "positive": [
+        "health_continuation"
+      ],
+      "alpha": 10.0
+    },
+    "remainder": {
+      "columns": [
+        "remainder_lag1",
+        "remainder_avg3",
+        "remainder_avg12",
+        "empire_prices_paid",
+        "ppi_growth3",
+        "inventory_level"
+      ],
+      "positive": [],
+      "alpha": 10.0
+    }
+  },
+  "factory": {
+    "columns": [
+      "core_lag1",
+      "core_avg3",
+      "core_avg12",
+      "empire_prices_paid",
+      "factory_change3"
+    ],
+    "positive": [],
+    "alpha": 10.0
+  }
+}
